@@ -21,8 +21,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/tabishkh-an/order-summary-component.git)
-- Live Site URL: [Netlify](https://order-summary-tabish.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-flexbox-7qVPYyoM4](https://www.frontendmentor.io/solutions/css-flexbox-7qVPYyoM4)
+- Live Site URL: [order-summary-tabish.netlify.app](https://order-summary-tabish.netlify.app/)
 
 ## My Process
 
