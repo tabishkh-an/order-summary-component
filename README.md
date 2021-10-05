@@ -13,8 +13,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,7 +22,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/tabishkh-an/order-summary-component.git)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://order-summary-tabish.netlify.app/)
 
 ## My Process
 
